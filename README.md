@@ -1,6 +1,7 @@
 # DiscoveringDiseaseOutbreaks
-This project discover disease outbreaks from news headlines, using names location detection, transforming into geo-locations (coordinates) and classification of these points into groups.  
+This project discover disease outbreaks from news headlines, using names location detection, transforming into geo-locations (coordinates) and classify these points into clusters.  
 * This project was built as part of a LiveProject of Manning site.
+#unsupervised#clusterring#regularExperssion#geonamescache#kmeans#DBSCAN#basemap
 
 This project contain the following files:
 ### 1. GeoNamesAndLocations.ipynb - 
