@@ -20,3 +20,6 @@ sklearn.cluster.DBSCAN - tested on different parameters as well.
 once the points are clustered we visualize them on the world map (using mpl_toolkits.basemap.Basemap)
 ### 3. data/headlines.txt - 
 the input data file, to be placed under "data" folder.
+### 4. environment.yml -
+in order to run this project use the environment.yml file:
+> conda env create -f environment.yml
