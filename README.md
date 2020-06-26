@@ -3,6 +3,11 @@ This project discover disease outbreaks from news headlines, using names locatio
 * This project was built as part of a LiveProject of Manning site.
 #unsupervised#clusterring#regularExperssion#geonamescache#kmeans#DBSCAN#basemap
 
+The project is broken into the following parts:
+1. Extracting City and Country Information from News Headlines
+2. Finding Geographic Locations of Headlines
+3. Clustering Headlines Based on Location
+
 This project contain the following files:
 ### 1. GeoNamesAndLocations.ipynb - 
 this module extract cities and countries names from each headline (if exist). 
