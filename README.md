@@ -1,7 +1,7 @@
 # DiscoveringDiseaseOutbreaks
 This project discover disease outbreaks from news headlines, using names location detection, transforming into geo-locations (coordinates) and classify these points into clusters.  
 * This project was built as a LiveProject (Manning).
-#unsupervised#clusterring#regularExperssion#geonamescache#kmeans#DBSCAN#basemap
+#Unsupervised#Clusterring#RegularExperssion#Geonamescache#Kmeans#DBSCAN#Basemap
 
 ## The project is broken into the following parts:
 1. Extracting City and Country Information from News Headlines (data/headlines.txt file attached)
