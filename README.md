@@ -25,4 +25,4 @@ in order to run this project use the environment.yml file:
 > conda env create -f environment.yml
 
 ## Results:
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](LocationsClustersResults.png?raw=true "Title")
