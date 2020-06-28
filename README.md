@@ -1,14 +1,14 @@
 # DiscoveringDiseaseOutbreaks
 This project discover disease outbreaks from news headlines, using names location detection, transforming into geo-locations (coordinates) and classify these points into clusters.  
-* This project was built as part of a LiveProject of Manning site.
+* This project was built as a LiveProject (Manning).
 #unsupervised#clusterring#regularExperssion#geonamescache#kmeans#DBSCAN#basemap
 
-The project is broken into the following parts:
-1. Extracting City and Country Information from News Headlines
-2. Finding Geographic Locations of Headlines
-3. Clustering Headlines Based on Location
+## The project is broken into the following parts:
+1. Extracting City and Country Information from News Headlines (data/headlines.txt file attached)
+2. Finding Geographic Locations of Headlines (using geonamescach library)
+3. Clustering Headlines Based on Location (KMeans, DBSCAN)
 
-This project contain the following files:
+## This project contain the following files:
 ### 1. GeoNamesAndLocations.ipynb - 
 this module extract cities and countries names from each headline (if exist). 
 then we transform every name to its geo-location (using geonamescache library). 
@@ -23,3 +23,6 @@ the input data file, to be placed under "data" folder.
 ### 4. environment.yml -
 in order to run this project use the environment.yml file:
 > conda env create -f environment.yml
+
+## Results:
+
